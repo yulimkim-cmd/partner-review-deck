@@ -83,7 +83,3 @@ MRT_BLUE_DARK 바(0.95") + RED 액센트 라인(4pt)
 7. 파트너 대상 언어 교정
 8. 내부 회의록은 별도 Confluence 위키로 (두괄식: 아젠다→장표링크→보조지표→팔로업)
 
-## 레퍼런스 파일
-- 디자인 시스템: /Users/yulim-kim/Downloads/slide101_v4 (1).py
-- 테라투어 v7: /Users/yulim-kim/make_terra_v7.py
-- 유투어 v7: /Users/yulim-kim/make_utour_v7.py

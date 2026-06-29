@@ -63,12 +63,10 @@ MRT_BLUE_DARK 바(0.95") + RED 액센트 라인(4pt)
 
 ## 데이터 소스
 
-1. **Redash API** (Key: 메모리 참조)
-   - MART_SALE_D: 송객, 확정률, 취소율
-   - MART_PRODUCT_AGG_D: UV, CVR, 노출
-   - JOIN MART_PRODUCT_D: 파트너/도시 매핑
-2. **Slack 검색**: 이전 미팅 히스토리
-3. **Confluence**: 이전 미팅록
+- 파트너별 월별 송객·유입·전환율·확정률·취소율 데이터
+- 상품(노선)별·도시별 실적 데이터
+- 전년 동기 데이터 (YoY 비교용)
+- 이전 미팅록·히스토리 (내부 문서)
 
 ## 워크플로우
 
